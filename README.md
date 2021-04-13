@@ -41,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@klara-pavlov](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@klara-pavlov](https://www.frontendmentor.io/profile/klara-pavlov)
 - GitHub - [@klara-pavlov](https://github.com/klara-pavlov)
 - LinkedIn - [@klara-pavlov](https://www.linkedin.com/in/klara-pavlov/)
 - Instagram - [@klara.pavlov](https://www.instagram.com/klara.pavlov/)
